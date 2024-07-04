@@ -1,6 +1,6 @@
 # 👨‍🏭 Samuel J Macedo
 
-Enthusiastic and team-oriented Java developer with over 2 years of experience. My overarching goal is to contribute meaningfully to cutting-edge projects while embracing new challenges with hopes of applying my skills and strengthen my knowledge. Skilled in using effective communication with a collaborative mindset to contribute and leverage the team. Furthermore, I bring self-taught skills and a didactic approach towards my colleagues.
+Enthusiastic and team-oriented Java developer with 3 years of experience. My overarching goal is to contribute meaningfully to cutting-edge projects while embracing new challenges with hopes of applying my skills and strengthen my knowledge. Skilled in using effective communication with a collaborative mindset to contribute and leverage the team. Furthermore, I bring self-taught skills and a didactic approach towards my colleagues.
 
 I hold an Electronic Engineer degree from Pontifical Catholic University of Minas Gerais with a specialization in Software Engineering where I gained a strong foundation in computer science and software engineering principles.
 
