@@ -1,8 +1,10 @@
 # 👨‍🏭 Samuel J Macedo
 
-Enthusiastic and team-oriented Java developer with 4 years of experience. My overarching goal is to contribute meaningfully to cutting-edge projects while embracing new challenges with hopes of applying my skills and strengthen my knowledge. Skilled in using effective communication with a collaborative mindset to contribute and leverage the team. Furthermore, I bring self-taught skills and a didactic approach towards my colleagues.
+Full-stack developer with hands-on experience building and maintaining scalable applications using Java, Spring Boot, TypeScript, ReactJS, and NestJS, backed by a prior background in network and endpoint security that strengthened my problem-solving and systems-thinking skills.
 
-I hold an Electronic Engineer degree from Pontifical Catholic University of Minas Gerais with a specialization in Software Engineering where I gained a strong foundation in computer science and software engineering principles.
+At Synergia, I've grown into a Tech Lead role: facilitating sprint planning, leading code reviews, and mentoring more than 15 junior developers and interns, while working with cross-functional teams of 5 to 15 people across Java, Oracle, and MongoDB-based systems.
+
+I hold a degree in Engineering with a specialization in Software Engineering from PUC Minas, and I'm a self-taught, didactic professional. I enjoy translating complex technical concepts into something the whole team can act on.
 
 ## 🔗 Connect with me:
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:samueljmacedo@outlook.com)
